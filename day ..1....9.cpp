@@ -3,6 +3,7 @@
 using namespace std;
 class Average
 {
+      
 public:
 double num1,num2,num3;
 
