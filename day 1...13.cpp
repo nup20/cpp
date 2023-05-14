@@ -4,6 +4,7 @@ using namespace std;
 class Employee
 {public:
     double sal,whrs;
+ 
 void getinfo(double a,double b)
 {
     whrs=a;
