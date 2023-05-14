@@ -14,6 +14,7 @@ cout << " salary:" <<whrs*sal<<endl;
 void Addsal(double a,double b)
 {   whrs=a;
     sal=b;
+ 
 
 if(whrs*sal<500)
 
