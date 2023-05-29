@@ -9,6 +9,7 @@ char phno[10] ;
 string name,address;
 
 
+    
 void setdata()
 {
     cout<<"Enter name :"<<endl;
